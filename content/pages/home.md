@@ -8,23 +8,8 @@ meta:
   description: This is a meta description.
   title: The Ultimate Gatsby Starter
 ---
+최근 국비교육, 부트캠프 등의 교육을 수강하고 개발자로 커리어를 전환하신 비전공자분들을 쉽게 볼 수 있습니다. 기술이 더욱 빠르게 발전하며, 개발 직군은 지속적인 학습이 필요합니다. 특히 비전공자 출신의 개발자분들은 더욱 많은 학습이 필요하겠죠. 
 
-Yellowcake is an opinionated starter project created by [Thrive Digital](https://thriveweb.com.au/) a [Gold Coast Web Design](https://thriveweb.com.au/) studio. to help you create lightning fast websites with [Gatsby](https://gatsbyjs.org) and [Netlify CMS](https://netlifycms.org).
+스스로 최신 개발 지식과 기술을 학습할 때 가장 유용한 교재는 바로 테크 기업들의 기술 블로그입니다. 기존의 개발 과정 포스팅을 통해 시행착오를 줄여 더 빠르게 성장하며, 오픈소스로 큰 도움을 받을 수도 있습니다. 또한 기술 블로그의 개발자 채용 공고를 통해 자신의 커리어를 가꾸어 나갈 수도 있습니다.​
 
-View the [project overview](https://thriveweb.com.au/the-lab/yellowcake-gatsby-react-js-starter-project/) and the [docs](https://github.com/thriveweb/yellowcake/blob/master/README.md).
-
-# Features
-
-- **[Gatsby](https://gatsbyjs.org)** static site generator
-- **[Netlify CMS](https://github.com/netlify/netlify-cms)** for content management
-- Dynamic menus and forms
-- **[Mailchimp](http://mailchimp.com)** and **[Uploadcare](https://uploadcare.com)** integrations
-- Fully responsive layout for mobile and widescreen browsing
-- Blog searching and paging functionality
-- Seamless image and content sliders
-
-## Get started
-
-View the [Netlify CMS Docs](https://www.netlifycms.org/docs/) and the [Netlify CMS Repo](https://github.com/netlify/netlify-cms).
-
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/thriveweb/yellowcake&stack=cms)
+개발자로서 더욱 빠른 성장을 도와줄 잡코리아 가장 최신의 기술 지식과 정보를 얻으실 수 있을 거예요

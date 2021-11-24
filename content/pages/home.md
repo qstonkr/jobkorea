@@ -1,9 +1,9 @@
 ---
 template: HomePage
-slug: ''
-title: Yellowcake
-featuredImage: 'https://ucarecdn.com/159203d3-881d-4218-baa1-ca4427b48d0d/'
-subtitle: ' Welcome to the ultimate Gatsby and Netlify starter project.'
+slug: ""
+title: JOBKOREA's Tech Blog
+featuredImage: https://ucarecdn.com/159203d3-881d-4218-baa1-ca4427b48d0d/
+subtitle: 잡코리아와 알바몬을 만드는 개발자들의 이야기
 meta:
   description: This is a meta description.
   title: The Ultimate Gatsby Starter

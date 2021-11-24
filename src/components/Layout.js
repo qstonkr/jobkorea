@@ -73,7 +73,7 @@ export default ({ children, meta, title }) => {
               {...data.settingsYaml}
             />
 
-            <GithubCorner url="https://github.com/qstonkr/yellowcake" />
+            <GithubCorner url="https://github.com/qstonkr/jobkorea" />
 
             <Nav subNav={subNav} />
 

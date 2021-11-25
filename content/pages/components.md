@@ -1,9 +1,9 @@
 ---
 template: ComponentsPage
 slug: components
-title: Components Page
+title: " Events"
 featuredImage: https://ucarecdn.com/4ee85cb6-7039-4aa8-8a4b-04cab93873fd/
-subtitle: This is the components page subtitle.
+subtitle: 잡코리아에서진행되는 다양한 연사들의 강의를 확인할 수 있습니다.
 section1: >-
   ## This is a container component
 

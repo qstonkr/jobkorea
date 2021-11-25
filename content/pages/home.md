@@ -2,7 +2,7 @@
 template: HomePage
 slug: ""
 title: JOBKOREA's Tech Blog
-featuredImage: http://company.jobkorea.co.kr/img/main/jk_company_visual_2021.jpg
+featuredImage: https://ucarecdn.com/9102bb60-02cc-43ec-b0d0-0dd404d5db5c/
 subtitle: 잡코리아와 알바몬을 만드는 개발자들의 이야기
 meta:
   description: This is a meta description.

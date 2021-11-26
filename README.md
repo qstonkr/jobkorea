@@ -15,7 +15,7 @@ An opinionated starter project for creating lightning-fast websites with [Gatsby
 
 ## Get going
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/qston/jobkorea&stack=cms)
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/qstonkr/jobkorea&stack=cms)
 
 1.  Hit the **Deploy to Netlify** button. This will:
 

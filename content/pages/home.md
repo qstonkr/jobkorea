@@ -5,8 +5,8 @@ title: JOBKOREA's Tech Blog
 featuredImage: https://ucarecdn.com/9102bb60-02cc-43ec-b0d0-0dd404d5db5c/
 subtitle: 잡코리아와 알바몬을 만드는 개발자들의 이야기
 meta:
-  description: This is a meta description.
-  title: The Ultimate Gatsby Starter
+  description: ""
+  title: JK'S Tech Blog
 ---
 최근 국비교육, 부트캠프 등의 교육을 수강하고 개발자로 커리어를 전환하신 비전공자분들을 쉽게 볼 수 있습니다. 기술이 더욱 빠르게 발전하며, 개발 직군은 지속적인 학습이 필요합니다. 특히 비전공자 출신의 개발자분들은 더욱 많은 학습이 필요하겠죠. 
 

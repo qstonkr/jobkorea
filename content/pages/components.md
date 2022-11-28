@@ -1,10 +1,15 @@
 ---
 template: ComponentsPage
 slug: Events
-title: " Events"
+title: " JOBKOREA 인재영입"
 featuredImage: https://ucarecdn.com/4ee85cb6-7039-4aa8-8a4b-04cab93873fd/
-subtitle: 잡코리아에서진행되는 다양한 연사들의 강의를 확인할 수 있습니다.
-section1: "## This is a jobkorea's tech blog"
+subtitle: 잡코리아채용블로그
+section1: |-
+  <!--StartFragment-->
+
+  채용 트렌드 반영 및 MZ세대 向 신규 콘텐츠 제작
+
+  <!--EndFragment-->
 section2: >-
   ## You can use videos, images and text.
 

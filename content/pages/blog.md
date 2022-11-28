@@ -1,7 +1,7 @@
 ---
 template: BlogIndex
 slug: blog
-title: JK's DEV LIFE
+title: "잡코리아 영업 블로그 "
 featuredImage: https://ucarecdn.com/b6254577-26bf-4b79-aa9b-f3793e2aebdc/
 subtitle: 자유롭고 즐겁게 일하는 잡코리아 개발자의 이야기
 meta:
